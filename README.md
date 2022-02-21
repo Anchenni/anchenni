@@ -7,7 +7,7 @@
  # <p align="center"> Hey There!, I am Anchenni </p>
 
 - 👨‍💻 I’m currently working as a Full-stack Developer and softwer engineer.
-- 🔭 I’m currently working on <a href="#" > stock management project</a>
+- 🔭 I’m currently working on <a href="https://github.com/Anchenni/gestiondestock" > stock management project</a>
 - 🌱 I’m currently learning `New library`,`script`,`blockchain`,`webserver` in python.
 - 🏠 I’m currently living at Brussels, Belgium
 
